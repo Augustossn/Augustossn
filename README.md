@@ -2,7 +2,7 @@
   
   # 👨‍💻 Augusto Soares
   
-  ### Desenvolvedor FullStack | .NET | React | Python
+  ### Desenvolvedor FullStack | .NET | React | JavaScript
 
   <br>
 
