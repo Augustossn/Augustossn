@@ -7,17 +7,16 @@
   <br>
 
   <p align="left">
-    Me chamo <strong>Augusto Soares de Souza</strong>, sou de Brasília - DF e atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade Católica de Brasília (UCB).
+    Me chamo Augusto Soares de Souza, sou de Brasília - DF e atualmente estou cursando o último semestre Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília (UCB).
     <br><br>
-    Possuo experiência prática em desenvolvimento web, atuando tanto no Back-end quanto no Front-end. Já estagiei na <strong>CAESB</strong> criando automações com Python e atuei como Freelancer na <strong>GIS Tecnologia</strong> e Voluntário na <strong>Bincom Global</strong> focado no ecossistema .NET e C#. 
-    <br><br>
-    Atualmente, estou focado em aprimorar meus conhecimentos em arquitetura de software, nuvem (Azure) e contribuir em projetos Open Source como o <strong>SalvaDocs</strong>.
+    Possuo experiência prática em desenvolvimento web, atuando tanto no Back-end quanto no Front-end. 
+    Atualmente, estou focado em aprimorar meus conhecimentos em desenvolvimento de software e conseguir oportunidades onde possa aplicar melhor meus conhecimentos.
   </p>
   
   <br>
 
   <div align="center">
-    <a href="https://www.linkedin.com/in/augustossn" target="_blank">
+    <a href="https://www.linkedin.com/in/augusto-soares-de-souza-04a7482a6" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
     <a href="mailto:augustos.souza@yahoo.com.br">
