@@ -2,7 +2,7 @@
   
   # Augusto Soares
   
-  ### Desenvolvedor FullStack | .NET | React | JavaScript
+  ### Desenvolvedor FullStack | .NET | Java | JavaScript
 
   <br>
 
