@@ -51,8 +51,5 @@
 ### Estatísticas
 
 <div align="center">
-  <a href="https://github.com/Augustossn">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Augustossn&show_icons=true&theme=dracula" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustossn&layout=compact&theme=dracula" />
-  </a>
+  <img src="https://metrics.lecoq.io/Augustossn?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1" alt="Metrics" />
 </div>
