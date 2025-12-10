@@ -48,9 +48,3 @@
 
 <br>
 
-### Estatísticas
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Augustossn&theme=dracula" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Augustossn&theme=dracula" />
-</div>
