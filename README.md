@@ -52,7 +52,7 @@
 
 <div align="center">
   <a href="https://github.com/Augustossn">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Augustossn&show_icons=true&theme=dracula&include_all_commits=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Augustossn&show_icons=true&theme=dracula" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustossn&layout=compact&theme=dracula" />
   </a>
 </div>
