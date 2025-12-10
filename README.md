@@ -51,5 +51,6 @@
 ### Estatísticas
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Augustossn?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1" alt="Metrics" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Augustossn&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Augustossn&theme=dracula" />
 </div>
