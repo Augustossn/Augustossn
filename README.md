@@ -1,50 +1,76 @@
-<div align="center">
-  
-  # Augusto Soares
-  
-  ### Desenvolvedor FullStack | .NET | Java | JavaScript
+# Augusto Soares de Souza
 
-  <br>
+**Full Stack Developer | Python · Django · React · TypeScript | REST APIs & Integrations**
 
-  <p align="left">
-    Me chamo Augusto Soares de Souza, sou de Brasília - DF e atualmente estou cursando o último semestre Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília (UCB).
-    <br><br>
-    Possuo experiência prática em desenvolvimento web, atuando tanto no Back-end quanto no Front-end. 
-    Atualmente, estou focado em aprimorar meus conhecimentos em desenvolvimento de software e conseguir oportunidades onde possa aplicar melhor meus conhecimentos.
-  </p>
-  
-  <br>
+Based in Brasília, Brazil. I build and maintain business applications, integrations, and process automation, with professional experience in corporate and financial systems.
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/augusto-soares-de-souza-04a7482a6" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-    <a href="mailto:augustos.souza@yahoo.com.br">
-      <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-  </div>
+My strongest professional background is in backend development with Python/Django, REST APIs, business rules, SQL, and automated testing. I also build full-stack portfolio projects with React/TypeScript, Java/Spring Boot, and C#/.NET.
 
-</div>
+[Portfolio](https://portfolio-augusto-ruddy.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/augusto-soares-de-souza-04a7482a6/) · [Email](mailto:augustos.souza@yahoo.com.br)
 
-<hr>
+## Professional experience
 
-### Linguagens e Tecnologias
+### Dali — Full Stack Developer
+*Independent contractor · March–September 2026*
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+- Developed Python/Django services for a no-code automation platform, including REST APIs, conditional business rules, and data processing.
+- Integrated external systems, including WhatsApp, to support customer service and sales workflows.
+- Wrote Pytest tests with mocks and fixtures for incomplete inputs and unexpected external responses; worked with Docker, GitHub Actions, and pull requests.
 
-<br>
+### GIS Tecnologia — Full Stack Developer
+*Independent contractor · March 2025–April 2026*
 
+- Developed and improved REST APIs and business logic for corporate and financial applications used in production.
+- Connected interfaces, services, and relational databases based on requirements discussed with the team.
+- Worked on data modeling, SQL query optimization, version control, and code reviews.
+
+### CAESB — Systems Analysis and Development Intern
+*September 2025–March 2026*
+
+- Developed and maintained Python, Java, and C# routines for process automation and internal reporting.
+- Queried and processed SQL Server data and maintained workflows for internal teams.
+
+### Bincom Global — Development Volunteer
+*Part-time, remote · November 2024–January 2025*
+
+- Assisted with developing and maintaining C#/.NET web applications and SQL Server CRUD operations.
+- Practiced HTML, CSS, and JavaScript fundamentals.
+
+## Technical focus
+
+- **Backend:** Python, Django, Django REST Framework, REST APIs, integrations, and automation.
+- **Frontend and portfolio stacks:** React, TypeScript, Angular, Node.js/NestJS, Java/Spring Boot, C#/.NET, and ASP.NET Core.
+- **Data:** PostgreSQL, SQL Server, MySQL, relational modeling, ORM, and migrations.
+- **Quality and delivery:** Pytest, JUnit/Mockito, xUnit/Moq, Testcontainers, frontend/E2E tests, Git, Docker, and GitHub Actions.
+- **Architecture explored in projects:** layered/Clean Architecture, dependency injection, RabbitMQ/Kafka, transactional Outbox, and idempotent processing.
+
+I use Claude Code and Codex to support development, while reviewing changes and validating behavior through testing and debugging. Kubernetes experience is limited to learning/lab environments.
+
+## Selected portfolio projects
+
+These are personal demonstration projects, separate from my professional work.
+
+### [Automation Center — Workflow and Integration Management](https://github.com/Augustossn/automation-center)
+**Python · Django REST Framework · React · TypeScript · PostgreSQL · Celery/Redis · Kafka**
+
+Lead and task management with asynchronous processing, integration retries, audit history, and a Kanban interface with optimistic updates and conflict handling. Includes automated tests, Docker, CI/CD, and observability tooling.
+
+### [Credit Hub — Credit Proposal Management](https://github.com/Augustossn/credit-hub)
+**Java 21 · Spring Boot · React · TypeScript · PostgreSQL · RabbitMQ**
+
+Modular REST application using fictitious credit-proposal data. Includes Spring Security/JWT, role-based access, Flyway migrations, transactional Outbox, idempotent consumers, and automated tests. Mock triage supports human review; it does not approve credit.
+
+### [MaintainFlow — Maintenance Management](https://github.com/Augustossn/maintainflow)
+**C# · .NET 8 · ASP.NET Core · EF Core · SQL Server · React · RabbitMQ**
+
+Asset, work-order, and inventory management with Clean Architecture, JWT authorization, concurrency control, and asynchronous messaging. Includes unit/integration/E2E tests, Docker, and GitHub Actions.
+
+[Explore my public repositories](https://github.com/Augustossn?tab=repositories)
+
+## Education and languages
+
+- **Technology Degree in Systems Analysis and Development** — Universidade Católica de Brasília (UCB), completed May 2026.
+- **Postgraduate Studies in Software Engineering** — UCB, in progress since October 2026.
+- **Portuguese:** native · **English:** advanced (C1).
+
+Open to remote software development opportunities, especially backend and full-stack roles involving APIs, integrations, and automation.
