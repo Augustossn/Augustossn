@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Augusto Soares — Full Stack Developer</title><desc id="desc">Python, Django, React and TypeScript. APIs, integrations and automation. Dark blue banner with cyan circuit lines.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#152b46"/></linearGradient><linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#38bdf8" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/><rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+<rect x="48" y="55" width="5" height="185" rx="2" fill="url(#accent)"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="78" y="83" font-size="14" letter-spacing="3" fill="#67e8f9">BRASÍLIA, BRAZIL / SOFTWARE ENGINEERING</text><text x="75" y="147" font-size="54" font-weight="700" fill="#f8fafc">Augusto Soares</text><text x="78" y="188" font-size="24" fill="#cbd5e1">Full Stack Developer</text><text x="78" y="227" font-size="17" fill="#7dd3fc">Python · Django · React · TypeScript</text><text x="78" y="260" font-size="14" fill="#94a3b8">APIs / Integrations / Automation</text></g>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".55"><path d="M850 100h70l35 35h105"/><path d="M820 150h70l35 35h165"/><path d="M860 205h40l30 30h130"/></g>
+<g fill="#38bdf8"><circle cx="850" cy="100" r="5"/><circle cx="820" cy="150" r="5"/><circle cx="860" cy="205" r="5"/></g>
+<g fill="#2dd4bf"><circle cx="1060" cy="135" r="6"/><circle cx="1090" cy="185" r="6"/><circle cx="1060" cy="235" r="6"/></g>
+</svg>
